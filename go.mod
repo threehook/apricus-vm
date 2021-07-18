@@ -1,4 +1,4 @@
-module github.com/perlin-network/life
+module github.com/threehook/apricus-vm
 
 require (
 	github.com/go-interpreter/wagon v0.6.0
